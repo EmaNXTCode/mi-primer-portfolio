@@ -14,12 +14,5 @@ public class ControladorCarta {
         String nombre;
         String apePaterno, apMaterno;
         int edad;
-    }
-
-    public static void main(String[] args) {
-
-        
-        
-    }
-
+    }   
 }
